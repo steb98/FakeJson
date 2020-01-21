@@ -1,8 +1,52 @@
 {
-   "users": [
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-]
-  }
+  "trips": [
+    {
+	  "id" : 0,
+	  "title" : "Title 1",
+	  "destination" : "Sahara",
+	  "image" : 0,
+	  "fav" : 1,
+	  "type" : "Sea Side",
+	  "startYear" : 2020,
+	  "startMonth" : 1,
+	  "startDay" : 1,
+	  "endYear" : 2020,
+	  "endMonth" : 1,
+	  "endDay" : 10,
+	  "price" : 440,
+	  "rating" : 4
+	},
+    {
+	  "id" : 1,
+	  "title" : "Title 2",
+	  "destination" : "Sahara",
+	  "image" : 0,
+	  "fav" : 0,
+	  "type" : "Sea Side",
+	  "startYear" : 2020,
+	  "startMonth" : 1,
+	  "startDay" : 1,
+	  "endYear" : 2020,
+	  "endMonth" : 1,
+	  "endDay" : 10,
+	  "price" : 300,
+	  "rating" : 2.5
+    },
+    {
+	  "id" : 2,
+	  "title" : "Title 3",
+	  "destination" : "Sahara",
+	  "image" : 0,
+	  "fav" : 1,
+	  "type" : "Sea Side",
+	  "startYear" : 2020,
+	  "startMonth" : 1,
+	  "startDay" : 1,
+	  "endYear" : 2020,
+	  "endMonth" : 1,
+	  "endDay" : 10,
+	  "price" : 440,
+	  "rating" : 4
+    }
+  ]
+}
